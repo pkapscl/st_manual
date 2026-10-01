@@ -1,2 +1,0 @@
-cd start
-index.htm
